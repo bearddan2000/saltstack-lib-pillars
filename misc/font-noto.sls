@@ -1,0 +1,3 @@
+font-noto:
+  pkg:
+    - installed
