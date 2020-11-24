@@ -1,0 +1,3 @@
+scala:
+  pkg:
+    - latest
